@@ -1,1 +1,1 @@
-Task 1-Shell_basics
+Task 1-shell_basics
